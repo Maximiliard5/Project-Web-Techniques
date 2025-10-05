@@ -1,0 +1,1 @@
+MYTRAILS is a personal hiking website created as part of a university project for a web design class. It showcases a few of the hikes I’ve completed, along with my own tips, experiences, and opinions on hiking gear.
